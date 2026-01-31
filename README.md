@@ -50,13 +50,32 @@ An interactive Gsheet Dashboard can be seen [here](https://docs.google.com/sprea
 
 ## Executive Summary
 
-Unapplied cash in EMEA closed **2025** on a clear downward trajectory, declining from approximately **$3.9M in Weeks 48–49 to a low of ~$2.6M by Week 52**, reflecting effective **year-end cleanup** and improved cash application discipline. This **reduction was primarily driven** by progress in **resolving Overpayments and Unknown Payments**, which historically represent the largest contributors to unapplied balances.
+## Overall Findings
 
-With the transition into **2026 (Week 1 onward)**, unapplied cash **increased modestly and stabilized at ~$3.17M as of today**, representing a **+1.49% week-over-week increase**. This early-year rebound appears structural rather than operational, consistent with seasonal payment behavior, higher remittance gaps, and timing differences between cash receipt and invoice resolution at the start of the fiscal year.
+The weekly trend analysis shows that total unapplied cash in EMEA declined materially toward year-end 2025, followed by a modest and controlled rebound in early 2026.
 
-**Overpayments remain the dominant driver**, accounting for **~55% of total unapplied cash ($1.74M)**, indicating that the overall exposure is concentrated in repeat payment patterns rather than exception handling failures. **Remittance Requests (+15.97% WoW)** and **Credit Memos (+59.86% WoW)** were the primary contributors to the early-2026 increase, **while Unknown Payments declined materially (–21.06% WoW)**, signaling continued improvement in payment identification processes.
+From Weeks 44 to 49, unapplied cash fluctuated between approximately $3.5M and $4.0M, peaking in late November. A sharp decline occurred between Weeks 50 and 52, with balances falling to a low of approximately $2.6M, reflecting focused year-end cleanup efforts and improved cash application throughput.
 
-In summary, EMEA exited **2025 with strong momentum in unapplied cash reduction**. The **early-2026 increase reflects timing and behavioral factors**, not a deterioration in controls. Sustained improvement in working capital and cash visibility will depend on structurally reducing overpayments, accelerating remittance capture, and shortening resolution cycles for recurring unapplied categories.
+Entering 2026, unapplied cash increased gradually, stabilizing at approximately $3.22M as of today, representing a +1.49% week-over-week increase. Importantly, this increase occurred alongside a decline in average unapplied cash per item (-1.28% WoW), despite a higher number of unapplied items (+4.22% WoW).
+
+This divergence indicates that the early-year increase is driven more by volume and timing effects rather than larger-value exceptions, suggesting controlled exposure growth rather than a deterioration in cash application quality.
+
+Overall, the trend reflects a structural improvement in year-end performance, followed by a predictable early-year normalization rather than a reversal of progress.
+
+
+<img width="2034" height="1273" alt="image" src="https://github.com/user-attachments/assets/5f479400-b21d-4e66-88ec-53c6a1e977a5" />
+
+## Unapplied Cash Trends by Key Drivers
+
+- Overpayments consistently represent the largest share of unapplied cash, accounting for approximately 55% of total exposure (~$1.74M). This category remained elevated throughout the period, indicating that unapplied cash is primarily driven by recurring customer payment behavior rather than isolated processing exceptions. While balances declined toward year-end, overpayments rebounded moderately in early 2026 in line with increased payment volume.
+
+- Unknown Payments declined materially toward the end of 2025 and into early 2026 (-21.06% WoW). This reduction coincides with improved payment identification and matching processes, suggesting that recent process enhancements are effectively converting previously unidentified cash into allocable items.
+
+- Remittance Requests increased in early 2026 (+15.97% WoW) following the year-end trough. This increase is consistent with seasonal remittance gaps observed at the start of the fiscal year, where payment receipt temporarily outpaces the availability of remittance documentation, leading to short-term unapplied balances.
+
+- Credit Memos showed a sharp week-over-week increase (+59.86% WoW), contributing disproportionately to the early-2026 rise. This behavior reflects timing differences between credit issuance and application, rather than a deterioration in upstream billing accuracy.
+
+- FX-related unapplied cash remained relatively stable throughout the period, indicating that currency conversion effects are not a primary driver of volatility and that existing FX handling controls remain effective.
 
 
 <img width="2010" height="1398" alt="image" src="https://github.com/user-attachments/assets/ba8711d0-71c1-4272-8eb1-6de31e6201ad" />
