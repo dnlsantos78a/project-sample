@@ -4,7 +4,7 @@ This project focuses on **improving** Accounts Receivable (AR) and Cash Applicat
 
 The objective was to **transform** raw transactional payment data into actionable insights that **support daily decision-making** for AR, Cash Application, and Credit teams, while reducing operational risk caused by unapplied cash.
 
-In freight and logistics, cash application is inherently complex due to high transaction volumes, partial payments, FX differences, and incomplete remittance information. When incoming cash remains unapplied, it can distort AR aging, misrepresent customer exposure, and lead to incorrect credit decisions such as unnecessary credit blocks or shipment delays.
+In freight and logistics, **cash application is inherently complex** due to high transaction volumes, partial payments, FX differences, and incomplete remittance information. When incoming **cash remains unapplied**, it can **distort** AR aging, misrepresent customer exposure, and lead to incorrect credit decisions such as unnecessary credit blocks or shipment delays.
 
 This project **bridges the gap** between cash inflows and AR visibility, ensuring that received cash is accurately reflected and operational teams can act quickly based on reliable data.
 
@@ -17,7 +17,7 @@ Client identifiers, monetary values, and timestamps have been masked or rescaled
 
 ## Business Problem
 
-Unapplied cash creates several downstream business issues:
+**Unapplied cash creates several downstream business issues:**
 
 - **AR aging** becomes inflated despite cash being received.
 
@@ -27,11 +27,11 @@ Unapplied cash creates several downstream business issues:
 
 - Manual investigation effort increases due to **poor prioritization**.
 
-The challenge was to **centralize**, structure, and analyze unapplied cash data in a way that highlights risk, ownership, and trends — rather than just static balances.
+The challenge was to **centralize**, **structure**, and **analyze** unapplied cash data in a way that highlights risk, ownership, and trends — rather than just static balances.
 
 ## Project Objectives
 
-The primary objectives of this analysis were to:
+**The primary objectives of this analysis were to:**
 
 - Provide **live visibility** into unapplied cash balances for daily operational monitoring.
 
