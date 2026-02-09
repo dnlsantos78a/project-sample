@@ -89,7 +89,8 @@ This divergence indicates that the early-year increase is driven more by volume 
 
 The sharp decline between Weeks 50–52 is visible across all regions, pointing to a coordinated year-end cleanup, while the early-2026 increase appears seasonal and broad-based, not region-specific.
 
-<img width="831" height="837" alt="image" src="https://github.com/user-attachments/assets/368997ff-c663-4d1d-950a-7289b4bc2e63" />
+<img width="1259" height="1264" alt="image" src="https://github.com/user-attachments/assets/770637c9-ce58-42dd-ba86-b2dc37d122d7" />
+
 
 
 ## Recommendations
