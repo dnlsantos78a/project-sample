@@ -13,7 +13,7 @@ This project **bridges the gap** between cash inflows and AR visibility, ensurin
 
 This project is based on real-world operational scenarios, but all underlying data has been anonymized and modified to protect confidentiality.
 
-Client identifiers, monetary values, and timestamps have been masked or rescaled, while preserving the original data structure, distributions, and business logic to ensure analytical validity.
+Client identifiers, monetary values, and timestamps have been modified and rescaled, while preserving the original data structure, distributions, and business logic to ensure analytical validity.
 
 ## Business Problem
 
